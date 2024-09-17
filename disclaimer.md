@@ -12,7 +12,11 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of this Disclaimer:
 
-*   **"Company"** (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to Esscrypt Ltd.
+-   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to Esscrypt Ltd. at [info@esscrypt.com](mailto:info@esscrypt.com)
+     - **Esscrypt Ltd.**
+      - **Mladost 3 313, Sofia, Bulgaria**
+      - **1799 Sofia**
+      - **info@esscrypt.com**
 *   **"Service"** refers to the Website.
 *   **"You"** means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 *   **"Website"** refers to Histori, accessible from https://www.histori.xyz
@@ -82,4 +86,4 @@ The Company will not be liable to You or anyone else for any decision made or ac
 If you have any questions about this Disclaimer, You can contact Us:
 
 *   By visiting this page on our website: https://www.histori.xyz/contact-us
-*   By sending us an email: sales@histori.xyz
+*   By sending us an email: legal@histori.xyz
