@@ -18,7 +18,11 @@ For the purposes of these Terms and Conditions:
     
 *   **"Account"** means a unique account created for You to access our Service or parts of our Service.
     
-*   **"Company"** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to **Esscrypt Ltd**.
+-   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to:
+      - **Esscrypt Ltd.**
+      - **Mladost 3 313, Sofia, Bulgaria**
+      - **1799 Sofia**
+      - **info@esscrypt.com**
     
 *   **"Country"** refers to Bulgaria.
     
@@ -206,4 +210,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 If you have any questions about these Terms and Conditions, You can contact us:
 
 *   By visiting this page on our website: https://www.histori.xyz/contact-us
-*   By sending us an email: sales@histori.xyz
+*   By sending us an email: legal@histori.xyz
